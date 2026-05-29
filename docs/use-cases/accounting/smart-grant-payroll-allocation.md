@@ -1,5 +1,5 @@
 ---
-title: "Smart Grant Solution — Automated Payroll Allocation"
+title: "Smart Grant Solution - Automated Payroll Allocation"
 type: use-case
 status: draft
 date: "2025-Q1"
@@ -36,7 +36,7 @@ Before INSART's engagement, this process was entirely manual: a CPA consultant w
 
 ---
 
-## Proposed Solution
+## Solution
 
 INSART designed and built an automated payroll allocation engine embedded within the Smart Grant platform. The core idea was to replace the CPA consultant's manual Excel workflow with a system that ingests client data, maps it against grant structures, performs compliance-validated allocations in the background, and produces export files in the required format — all without human intervention.
 
@@ -53,7 +53,7 @@ The solution was built on a microservices architecture deployed on AWS, enabling
 
 ---
 
-## Process / Solution Flow
+## Process / User Flow
 
 1. **Data preparation** — Client payroll and expense data is ingested from multiple source formats into the platform, normalised into a consistent internal schema
 2. **Data mapping** — The system matches client data against the grant structures and chart of accounts configured in Smart Grant, resolving which expenses belong to which funding sources
