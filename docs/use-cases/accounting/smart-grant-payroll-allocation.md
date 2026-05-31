@@ -2,7 +2,7 @@
 title: "Smart Grant Solution - Automated Payroll Allocation"
 type: use-case
 status: draft
-date: "2025-Q1"
+date: "2025-Q2"
 domain: "Accounting"
 client: "Smart Grant Solution"
 technologies: [AWS, Docker, Kubernetes, GitLab CI/CD, AWS CDK, CloudFormation, Microservices, REST API, Keycloak, Amazon MQ, Amazon RDS, Redis, Amazon S3, Cognito, AWS Secrets Manager, OpenSearch, CloudWatch]
