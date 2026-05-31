@@ -53,7 +53,7 @@ The solution was built on a microservices architecture deployed on AWS, enabling
 
 ---
 
-## Process / User Flow
+## User Flow
 
 1. **Data preparation** — Client payroll and expense data is ingested from multiple source formats into the platform, normalised into a consistent internal schema
 2. **Data mapping** — The system matches client data against the grant structures and chart of accounts configured in Smart Grant, resolving which expenses belong to which funding sources
