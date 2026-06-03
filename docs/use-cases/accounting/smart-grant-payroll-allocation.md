@@ -16,7 +16,7 @@ tags: [PayrollAllocation, Compliance, NonProfit, GrantManagement, Automation, AW
 
 ---
 
-## Problem Overview
+## Problem
 
 Smart Grant Solution is a Financial Compliance SaaS platform helping non-profit organisations manage budgets, grants, spending, and compliance. Their clients — non-profit human service organisations across the US — are required to allocate payroll expenses across multiple grants and funding sources in accordance with strict federal compliance rules.
 
