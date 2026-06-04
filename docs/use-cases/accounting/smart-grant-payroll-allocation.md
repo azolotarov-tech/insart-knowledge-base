@@ -6,7 +6,7 @@ date: "2025-Q1"
 domain: "Accounting"
 client: "Smart Grant Solution"
 technologies: [AWS, Docker, Kubernetes, GitLab CI/CD, AWS CDK, CloudFormation, Microservices, REST API, Keycloak, Amazon MQ, Amazon RDS, Redis, Amazon S3, Cognito, AWS Secrets Manager, OpenSearch, CloudWatch]
-experts: [@AndriiZolotarov, @ArtemUlianko]
+experts: ["@AndriiZolotarov", "@ArtemUlianko"]
 tags: [PayrollAllocation, Compliance, NonProfit, GrantManagement, Automation, AWS, Microservices, EKS, Keycloak, FinancialCompliance]
 ---
 
