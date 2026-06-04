@@ -62,6 +62,7 @@ The solution was built on a microservices architecture deployed on AWS, enabling
 5. **Export preparation** — Allocation results are packaged into the export format required by the client's compliance reporting workflow, ready for submission without further manual formatting
 
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/docs/use-cases/assets/Pro.png" width="600">
+
 ---
 
 ## Technical Stack & Architecture
