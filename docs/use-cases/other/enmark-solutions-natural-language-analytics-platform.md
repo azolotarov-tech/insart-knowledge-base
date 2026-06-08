@@ -1,7 +1,7 @@
 
 
 `---`  
-`title: "EnVision AI — Natural Language Analytics Platform"`  
+`title: "Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform"`  
 `type: use-case`  
 `status: draft`  
 `date: 2026-Q2`  
@@ -13,7 +13,7 @@
 `---`
 
 
-# **EnVision AI — Natural Language Analytics Platform**
+# **Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform**
 
 **One-liner summary** — We integrated an AI-powered assistant into a legacy reporting platform, enabling users to generate complex, customized charts and data insights from operational data using plain English.
 
