@@ -1,16 +1,16 @@
 
 
-`---`  
-`title: Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform`  
-`type: use-case`  
-`status: draft`  
-`date: 2026-Q1`  
-`domain: B2B SaaS / Industrial Distribution`  
-`client: Enmark Systems`  
-`technologies: [OpenAI, .NET 10, Vue 3, Azure SQL, Highcharts, Playwright, LangChain]`  
-`experts: []`  
-`tags: [AI, Analytics, NLP, Reporting, Legacy Modernization, GenAI Development]`  
-`---`
+---
+title: Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform
+type: use-case
+status: draft
+date: 2026-Q1
+domain: B2B SaaS / Industrial Distribution
+client: Enmark Systems
+technologies: [OpenAI, .NET 10, Vue 3, Azure SQL, Highcharts, Playwright, LangChain]
+experts: []
+tags: [AI, Analytics, NLP, Reporting, Legacy Modernization, GenAI Development]
+---
 
 
 # **Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform**
