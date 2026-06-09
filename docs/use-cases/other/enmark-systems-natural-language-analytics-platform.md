@@ -1,7 +1,7 @@
 
 
 `---`  
-`title: "Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform"`  
+`title: Enmark Systems — Integrating AI-Powered Assistant into a Legacy Reporting Platform`  
 `type: use-case`  
 `status: draft`  
 `date: 2026-Q1`  
