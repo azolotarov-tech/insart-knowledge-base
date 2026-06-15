@@ -2,7 +2,7 @@
 title: "AI Inkwell — AI-Assisted Construction Cost Estimation"
 type: use-case
 status: draft
-date: 2026-Q2
+date: 2025-Q1
 domain: PropTech / Entertainment Real Estate
 client: AI Inkwell
 technologies: [GraphRAG, Neo4j, PostgreSQL, LLM]
