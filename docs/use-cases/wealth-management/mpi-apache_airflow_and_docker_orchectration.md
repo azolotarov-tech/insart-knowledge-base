@@ -1,10 +1,10 @@
 ---
-title: "MPI Data Pipeline Modernization — Apache Airflow & Docker Orchestration"
+title: MPI Data Pipeline Modernization — Apache Airflow & Docker Orchestration
 type: use-case
 status: draft
-date: "2024-Q4"
-domain: "FinTech"
-client: "Markov Processes International (MPI)"
+date: 2024-Q4
+domain: FinTech
+client: Markov Processes International (MPI)
 technologies: [Apache Airflow, Docker, Perl, MariaDB, Samba, Linux, Windows]
 experts: [@GrigoriPanciohin]
 tags: [DataPipeline, ETL, WorkflowAutomation, OnPremises, MonolithModernization]
