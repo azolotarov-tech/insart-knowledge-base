@@ -94,7 +94,7 @@ By creating a standardized, template-driven ETL task topology, the system unlock
 
 ## Reusable Components / Patterns
 
-- [ ] [On-Premises Apache Airflow Docker Ingestion Template](../../best-practices/data-engineering/airflow-onprem.md)
+- [ ] On-Premises Apache Airflow Docker Ingestion Template
 - [ ] Standardized Perl ETL DAG Parser Wrapper for Airflow Orchestration
 
 ---
@@ -103,8 +103,8 @@ By creating a standardized, template-driven ETL task topology, the system unlock
 
 | Resource | Link |
 |---|---|
-| Presentation Slide Deck | `[EB] Service Delivery Meeting — MPI (22-Oct-2024)` |
-| Shared Architecture Review | Internal Project Knowledge Base Notes |
+| Presentation Slide Deck | [`[EB] Service Delivery Meeting — MPI (22-Oct-2024)`](https://docs.google.com/presentation/d/1jxO_BEBsuTTPPOVXDIpTvubJmMGY5m8hdGtBZ2-7k4U/edit?usp=drive_link) |
+| Meeting Notes | [Meeting Notes](https://docs.google.com/document/d/1rSg8UVwsyqWouVxPf-4Zv718Jdw3Uubf8MNArkKnuxg/edit?usp=drive_link) |
 
 ---
 
