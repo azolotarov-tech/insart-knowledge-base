@@ -1,5 +1,5 @@
 ---
-title: "Smart Map & Smartsheet — AI-Assisted Construction Cost Estimation"
+title: "AI Inkwell — AI-Assisted Construction Cost Estimation"
 type: use-case
 status: draft
 date: 2026-Q2
@@ -10,7 +10,7 @@ experts: [O. Saienko, M. Kyryliuk]
 tags: [GraphRAG, Neo4j, Postgres, KnowledgeGraph, CostEstimation, ExcelAutomation]
 ---
 
-# Smart Map & Smartsheet — AI-Assisted Construction Cost Estimation
+# AI Inkwell — AI-Assisted Construction Cost Estimation
 
 > **One-liner summary** — We engineered a GraphRAG system that converts complex, unstructured Excel calculation formulas into a Neo4j knowledge graph, enabling AI-assisted budget estimation for theme park construction using natural language queries.
 
