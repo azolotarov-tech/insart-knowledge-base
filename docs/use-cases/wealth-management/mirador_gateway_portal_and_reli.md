@@ -113,8 +113,8 @@ We delivered three major systems:
 
 | Resource | Link |
 |---|---|
-| Code Repository | *[Internal GitLab Link TBD]* |
-| Slide Deck | `Mirador (19.06.2023)` & `Mirador (26.03.2024)` |
+| Code Repository | *[to be added]* |
+| Slide Deck | [`Mirador (19.06.2023)`](https://docs.google.com/presentation/d/1zPYff10Jlt7ZCpXuQnxXpOuG_bL_1jnY/edit?usp=sharing&ouid=110968320908081389046&rtpof=true&sd=true) & [`Mirador (26.03.2024)`](https://docs.google.com/presentation/d/1wy7iOm25umeYHFolTv2Qa9RX0ctSs3iS/edit?usp=sharing&ouid=110968320908081389046&rtpof=true&sd=true) |
 | Integration Specs | Addepar / BlackDiamond API Integration Specs |
 
 ---
