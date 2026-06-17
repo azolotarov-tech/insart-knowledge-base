@@ -102,7 +102,7 @@ The data ingestion and transformation platform processes annuity files through f
 
 | Resource | Link |
 |---|---|
-| Core Slide Deck | `Zuul Presentation` |
+| Core Slide Deck | [`Zuul Presentation`](https://docs.google.com/presentation/d/1gUo6M-OGUFaaY61jz0wsZo6XHbaQNaaN/edit?usp=sharing&ouid=110968320908081389046&rtpof=true&sd=true) |
 | Analytical Database Design | Documented in Core Taxonomy Specs |
 
 ---
