@@ -6,7 +6,7 @@ date: "2024-Q1"
 domain: "FinTech"
 client: "Guidance Residential"
 technologies: ["PHP", "Laravel", "Vue.js", "MySQL", "WordPress"]
-experts: ["@MariaKyryliuk", "@VladVerpeta", "@Mariya", "@Iryna", "@Anhelina", "@Luka", "@Alex", "@Redjon"]
+experts: ["@MariaKyryliuk", "@VladVerpeta", "@IrynaSavchenko", "@AnhelinaLinska", "@LukaYakymchuk", "@AlexDatso", "@RedjonMata"]
 tags: ["HomeFinancing", "WorkflowOptimization", "LegacyMigration", "UXRedesign", "Musharaka"]
 ---
 
@@ -110,7 +110,7 @@ INSART initiated a fixed-price discovery and trial phase that successfully conve
 
 | Resource | Link |
 |---|---|
-| Slide Deck Presentation | `Guidance residential 26.03.2024.pptx` |
+| Slide Deck Presentation | [`Guidance residential 26.03.2024.pptx`](https://docs.google.com/presentation/d/1lspimFbyuSwi8LWoHQ9nMI5IuQO3XCet/edit?usp=sharing&ouid=110968320908081389046&rtpof=true&sd=true) |
 | Platform Main Website | [Guidance Residential](https://www.guidanceresidential.com) |
 | Affiliate Real Estate Portal | [Guidance Home Services](https://www.guidancehomeservices.com) |
 
@@ -122,11 +122,11 @@ INSART initiated a fixed-price discovery and trial phase that successfully conve
 |---|---|
 | **Maria Kyryliuk** | Project Manager / Reporter |
 | **Vlad Verpeta** | Tech Lead / Reporter |
-| **Iryna** | Business Analyst |
-| **Anhelina** | Business Analyst (Redesign) |
-| **Luka** | UI/UX Designer |
-| **Redjon** | Full Stack Developer |
-| **Alex** | Manual QA Engineer |
+| **Iryna Savchenko** | Business Analyst |
+| **Anhelina Linska** | Business Analyst (Redesign) |
+| **Luka Yakymchuk** | UI/UX Designer |
+| **Redjon Mata** | Full Stack Developer |
+| **Alex Datso** | Manual QA Engineer |
 
 ---
 _Last updated: 2024-Q1 · Status: draft_
