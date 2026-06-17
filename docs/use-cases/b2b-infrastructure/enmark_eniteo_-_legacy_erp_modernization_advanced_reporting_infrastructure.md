@@ -6,7 +6,7 @@ date: "2024-Q1"
 domain: "FinTech"
 client: "Enmark Systems, Inc."
 technologies: [".NET 6", ".NET Framework 4.8.1", "Kotlin", "Android", "Vue.js", "Azure AKS", "PostgreSQL", "MSSQL", "Redis", "Docker", "Helm"]
-experts: ["@AlexSukhenko", "@DavidRiley"]
+experts: 
 tags: ["ERPModernization", "BarcodeScanning", "BusinessIntelligence", "CloudMigration", "TechAudit", "MultiTenant"]
 ---
 
