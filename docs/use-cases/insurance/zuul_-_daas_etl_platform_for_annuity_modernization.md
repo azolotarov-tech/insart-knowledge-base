@@ -2,7 +2,7 @@
 title: "Zuul — Data as a Service (DaaS) ETL Platform for Annuity Modernization"
 type: use-case
 status: draft
-date: "2024-Q2"
+date: "2023-Q1"
 domain: "FinTech"
 client: "Zuul"
 technologies: ["Java", "Kotlin", "Vue.js 3", "TailwindUI", "AWS Lambda", "jOOQ", "Dagger", "AWS CodePipeline"]
