@@ -111,8 +111,7 @@ The reengineered system processes administrative configurations and client finan
 
 | Resource | Link |
 |---|---|
-| Technical Architecture Review | `Responsive AI (30.10.2023).pptx` |
-| Functional Core Overview | `Responsive AI Service Delivery (19.09.2023).pptx` |
+| Overview | [`Responsive AI (30.10.2023).pptx`](https://docs.google.com/presentation/d/1TG4D38_4qRw9w5bozaYwLpT8szkt-mxM1BDKaEKDNDw/edit?usp=sharing), [`Responsive AI (19.09.2023).pptx`](https://docs.google.com/presentation/d/1VURsR32dr7aj37c60zxkhECkAZ55JXVcOsAuTRyExSM/edit?usp=sharing) |
 | Public Corporate Space | [Responsive AI Official Domain](https://www.responsive.ai/) |
 
 ---
