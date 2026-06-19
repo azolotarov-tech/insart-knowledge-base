@@ -80,6 +80,8 @@ INSART initiated a fixed-price discovery and trial phase that successfully conve
 | **Databases** | MySQL 5.6, MsSQL | Handles data persistence across disjointed systems. |
 | **Content & SEO Layer** | WordPress, Laravel (GR-2020) | Target environment for migrating static assets to eliminate code redundancy. |
 
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_infrastructure.png" width="600">
+
 ---
 
 ## Business Outcome
