@@ -2,7 +2,7 @@
 title: "BridgeFT Atlas — Frontend Framework Modernization & CRM Integration Ecosystem"
 type: use-case
 status: draft
-date: "2019-Q4"
+date: "2020-Q2"
 domain: "FinTech"
 client: "BridgeFT"
 technologies: ["Angular", "Angular Material", "DevExpress", "Golang", "Python", "PostgreSQL"]
