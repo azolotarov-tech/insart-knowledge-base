@@ -22,6 +22,7 @@ Guidance Residential is the premier Islamic home financing provider in the Unite
 
 The company's legacy process relied on manual lead distribution by a concierge team based purely on state availability. There was no systematic tracking mechanism to check if an individual broker was actively engaging their assigned prospects. Consequently, individual AEs accumulated dozens of inactive leads simultaneously, leaving regional managers with zero aggregated visibility into stale pipeline segments.
 
+<img src="https://github.com/azolotarov-tech/insart-knowledge-base/blob/main/Assets/%20use-cases/lending/gr_system_overview.png" width="600">
 ---
 
 ## Challenges Identified
