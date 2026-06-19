@@ -69,6 +69,8 @@ We delivered three major systems:
 2. **Autonomous Retrieval** — UiPath robots log into targeted portals (scaling up to 200+ portals and 4,000+ accounts), navigating custom structures.
 3. **Parsing & Storage** — Data is parsed, filtered, structured, and saved into a local MongoDB, with alerts triggered via EzTexting services.
 
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_project_structure.png" width="600">
+
 ---
 
 ## Technical Stack & Architecture
@@ -82,6 +84,16 @@ We delivered three major systems:
 | **Security & Identity** | Okta (SSO), JWT, SAST/DAST Security Audits | Integrated custom 2FA flows and underwent rigorous security audits. |
 | **Integrations** | Addepar, BlackDiamond, Salesforce, AWS Quicksight, Box | Pulls asset diagrams, pushes transactions, hosts analytical dashboards, and syncs users. |
 | **Infrastructure** | GitHub, AWS, Netlify | Continuous build pipelines and serverless static hosting. |
+
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_architecture.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_architecture_mfa.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_architecture_retrieval.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_development_process.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_deployment_flow.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_addepar_integration.png" width="300">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_black_diamond_integration.png" width="300">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_reli_flow.png
+" width="600">
 
 ---
 
