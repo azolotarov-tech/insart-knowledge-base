@@ -2,7 +2,7 @@
 title: "Guidance Residential Lead Center — Automated Lead Redistribution & Lifecycle Management"
 type: use-case
 status: draft
-date: "2024-Q2"
+date: "2026-Q1"
 domain: "FinTech"
 client: "Guidance Residential"
 technologies: ["GIOS Ecosystem", "Full-Stack Web Technologies"]
