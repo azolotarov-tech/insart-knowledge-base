@@ -92,8 +92,7 @@ We delivered three major systems:
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_deployment_flow.png" width="600">
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_addepar_integration.png" width="300">
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_black_diamond_integration.png" width="300">
-<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_reli_flow.png
-" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/wealth-management/mirador_reli_flow.png" width="600">
 
 ---
 
