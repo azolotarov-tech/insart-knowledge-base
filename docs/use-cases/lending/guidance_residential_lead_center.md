@@ -22,7 +22,7 @@ Guidance Residential is the premier Islamic home financing provider in the Unite
 
 The company's legacy process relied on manual lead distribution by a concierge team based purely on state availability. There was no systematic tracking mechanism to check if an individual broker was actively engaging their assigned prospects. Consequently, individual AEs accumulated dozens of inactive leads simultaneously, leaving regional managers with zero aggregated visibility into stale pipeline segments.
 
-<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_system_overview.png" width="1000">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_system_overview.png" width="600">
 ---
 
 ## Challenges Identified
@@ -81,6 +81,7 @@ Every night, a scheduled automated process audits all active broker queues again
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_user_flow.png" width="300">
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_lifecycle.png" width="600">
 <img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_reporting_flow.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_contract_abuse_flow.png" width="600">
 
 ---
 
@@ -92,6 +93,9 @@ Every night, a scheduled automated process audits all active broker queues again
 | **Application Layer** | Fullstack Web Implementation | Drives personalized rule logic, form processing, and dashboard views. |
 | **Automation Engine** | Scheduled Nightly Audit Services | Runs background cron-based validation checks to trigger unassignments. |
 | **Data Tracking** | Relational Database Metrics | Stores full historical logs, assignment changes, and compliance state flags. |
+
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_integration_diagram.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_erd.png" width="600">
 
 ---
 
