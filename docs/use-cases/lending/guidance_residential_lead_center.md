@@ -78,6 +78,10 @@ Every night, a scheduled automated process audits all active broker queues again
 * Regional Managers access real-time statistics dashboards to filter team metrics over customizable periods (7, 14, 30, or 90 days).
 * Managers track four core metrics—**Claimed**, **Converted**, **Stale**, and **Exited** leads—while reviewing the full historical assignment and unassignment log for every file.
 
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_user_flow.png" width="300">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_lifecycle.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/lending/gr_lead_center_reporting_flow.png" width="600">
+
 ---
 
 ## Technical Stack & Architecture
