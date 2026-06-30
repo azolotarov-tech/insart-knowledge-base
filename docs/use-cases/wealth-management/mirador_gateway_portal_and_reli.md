@@ -3,7 +3,7 @@ title: "Mirador Gateway Portal & RELI — Bespoke FinTech SaaS and Document Auto
 type: use-case
 status: draft
 date: "2024-Q1"
-domain: "FinTech"
+domain: "WealthTech"
 client: "Mirador"
 technologies: ["React", "Node.js", "Typescript", "Gatsby.js", "MongoDB", "Cosmic.js", "UiPath", "Alkymi", "AWS"]
 experts: ["@VladyslavDerkach"]
