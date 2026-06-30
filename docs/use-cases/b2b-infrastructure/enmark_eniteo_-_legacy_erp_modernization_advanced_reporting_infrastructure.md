@@ -3,7 +3,7 @@ title: "Enmark Eniteo — Legacy ERP Modernization & Advanced Reporting Infrastr
 type: use-case
 status: draft
 date: "2024-Q1"
-domain: "FinTech"
+domain: "ERP Business Software"
 client: "Enmark Systems, Inc."
 technologies: [".NET 6", ".NET Framework 4.8.1", "Kotlin", "Android", "Vue.js", "Azure AKS", "PostgreSQL", "MSSQL", "Redis", "Docker", "Helm"]
 experts: 
