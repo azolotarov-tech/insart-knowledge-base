@@ -3,7 +3,7 @@ title: "Enmark Cloud ETL — Multi-Tenant Near Real-Time Data Synchronization"
 type: use-case
 status: draft
 date: "2024-Q2"
-domain: "FinTech"
+domain: "ERP Business Software"
 client: "Enmark Systems, Inc."
 technologies: [".NET 8", "Azure Kubernetes Service", "MySQL", "Azure SQL", "CDC", "Helm", "Azure DevOps"]
 experts: ["@IuriiS", "@AnastasiiaV", "@AndreeaM", "@AnhelinaL"]
@@ -57,6 +57,8 @@ The data synchronization functions end-to-end through both initial synchronizati
 3. **Batches Creation** — Organized data batches are automatically created based on the isolated CDC data.
 4. **API Execution** — The application converts these compiled batches into clean API requests and transmits them to the Data Push endpoints of the EnVision reporting system.
 
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/b2b-infrastructure/enmark_data_flow.png" width="600">
+
 ---
 
 ## Technical Stack & Architecture
@@ -68,6 +70,9 @@ The data synchronization functions end-to-end through both initial synchronizati
 | **Database (Staging/Config)** | Azure Database for MySQL, Azure SQL VM  | MySQL manages configuration; SQL VM handles staging with CDC enabled. |
 | **Infrastructure / DevOps** | Azure DevOps Pipelines, Container Registry  | Automates build, deployment, and cloud security containment. |
 | **Monitoring & Security** | Azure Application Insights, Azure Key Vault  | Provides full application performance monitoring and secret management. |
+
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/b2b-infrastructure/enmark_architecture.png" width="600">
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/b2b-infrastructure/enmark_deployment.png" width="600">
 
 ---
 
@@ -111,6 +116,9 @@ The data synchronization functions end-to-end through both initial synchronizati
 | **Anastasiia V.** | .NET Developer  |
 | **Andreea M.** | Reporting Specialist  |
 | **Anhelina L.** | Business Analyst  |
+
+<img src="https://raw.githubusercontent.com/azolotarov-tech/insart-knowledge-base/main/Assets/%20use-cases/b2b-infrastructure/enmark_insart_team.png" width="600">
+
 
 ---
 _Last updated: 2024-Q2 · Status: draft_ 
